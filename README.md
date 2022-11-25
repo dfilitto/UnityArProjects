@@ -5,13 +5,10 @@ Acesse o [link](https://www.youtube.com/playlist?list=PLfvOpw8k80Wpa3v7iGFzzzEoh
 https://github.com/dfilitto/UnityArProjects/tree/main/C%C3%B3digo%20Fonte%20-%20Gift%20Collection/V1
 
 ![Manipulando Objetos](https://github.com/dfilitto/UnityArProjects/blob/main/Unity%20-%20MANIPULANDO%20OBJETOS%20EM%20REALIDADE%20AUMENTADA.jpg)
-Acesse o [link](https://www.youtube.com/playlist?list=PLfvOpw8k80Wpa3v7iGFzzzEohvR89nLZG) para assistir as aulas que ensinam a criar o projeto.
+Acesse o [link](https://www.youtube.com/playlist?list=PLfvOpw8k80Wpgqi1KUiSts4c5VcA-AbwG) para assistir as aulas que ensinam a criar o projeto.
 https://github.com/dfilitto/UnityArProjects/tree/main/C%C3%B3digo%20Fonte%20-%20Manipulating%20Objects%20in%20AR
-Itens necessários para desenvolver o projeto:
 
-➤ https://github.com/dfilitto/UnityRecursosParaJogos/blob/main/PacoteOficialDeAssets/Carro.zip
 
-➤ https://www.photonengine.com/
 
 🔻Dicas de cursos🔻
 🚀C# Lógica de programação: https://www.youtube.com/playlist?list=PLfvOpw8k80WrnF-mlmxAiDGDD05U4ZLz-
