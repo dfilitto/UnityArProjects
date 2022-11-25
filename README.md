@@ -1,9 +1,7 @@
-![Unity Multiplayer Tap Racer Game](https://github.com/dfilitto/UnityMultiplayerTapRacerGame/blob/main/Unity%20-%20Tap%20Racer%20Game.jpg?raw=true)
-# Unity - Projetos em Realidade Aumentada
-
 Este repositório esta repleto de projetos desenvolvidos na Unity que utilizam a tecnologia de realidade aumenta. 
-
-Acesse o [link](https://www.youtube.com/playlist?list=PLfvOpw8k80WpenICRionIIznH2Zl2Gt2t) para assistir as aulas que ensinam a criar o projeto.
+# Unity - Projetos em Realidade Aumentada
+![AR CAR GAME](https://github.com/dfilitto/UnityArProjects/blob/main/Unity%20-%20Crie%20um%20jogo%20AR%20usando%20o%20AR%20Foundation%20da%20Unity.jpg)
+Acesse o [link](https://www.youtube.com/playlist?list=PLfvOpw8k80Wpa3v7iGFzzzEohvR89nLZG) para assistir as aulas que ensinam a criar o projeto.
 
 Itens necessários para desenvolver o projeto:
 
